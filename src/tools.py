@@ -9,4 +9,3 @@ def knowledge_base_lookup(query: str) -> str:
     # Placeholder for actual knowledge base retrieval logic
     return f"Simulated knowledge base response for: {query}."
 
-# You can add more tools here, e.g., for billing or tech support 
